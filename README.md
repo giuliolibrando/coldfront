@@ -26,6 +26,7 @@ extensible meta data for comprehensive reporting. The flexiblity of ColdFront al
 - [OpenStack Plugin](https://github.com/nerc-project/coldfront-plugin-openstack)
 - [Keycloak User Search](https://github.com/nerc-project/coldfront-plugin-keycloak)
 - [Starfish Plugin](https://github.com/fasrc/sftocf)
+- [Storage Plugin](https://github.com/giuliolibrando/coldfront-plugin-storage)
 
 _Submit a PR to add your plugin to the list above._
 
